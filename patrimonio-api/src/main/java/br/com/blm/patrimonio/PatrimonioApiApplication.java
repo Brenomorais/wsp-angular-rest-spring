@@ -1,4 +1,4 @@
-package br.com.blm;
+package br.com.blm.patrimonio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PatrimonioApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PatrimonioApiApplication.class, args);
+		SpringApplication.run(PatrimonioApiApplication.class, args);		
 	}
 }
